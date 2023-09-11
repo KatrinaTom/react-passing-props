@@ -27,7 +27,11 @@ Emoji Meanings: https://www.emojimeanings.net/list-smileys-people-whatsapp
 
 ## Screenshots
 
-<img src="/Images/components.png" width=500 />
+<img src="./Images/components.png" width=500 />
+
+Adding a new emoji to the dictionary
+
+<img src="./Images/addEmoji.png" width=500 />
 
 
 ## Resources
